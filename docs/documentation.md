@@ -3,12 +3,12 @@
 ## Metadata
 | attribute               | value                                         |
 | ----------------------- | --------------------------------------------- |
-| pattern-id              | onp.base.template                             |
-| pattern-name            | base template                                 |
+| pattern-id              | cba.CommBiz.App.Tier                          |
+| pattern-name            | CommBiz App Tier                               |
 | pattern-version         | 1.0.0                                         |
-| pattern-description     | Some description here                         |
-| organisation-id         | nc                                            |
-| pattern-categories      | bootstrap                                     |
+| pattern-description     | This is the mocked up HLSA of the CommBiz App Tie      |
+| organisation-id         | cba                                         |
+| pattern-categories      | application                                     |
 
 ## What is this pattern?
 This pattern is a basic template, modify it as you see fit

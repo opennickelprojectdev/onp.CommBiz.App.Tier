@@ -5,7 +5,7 @@ metadata:
   pattern-description: CommBiz App Tier - HLSA
   pattern-id: cba.CommBiz.App.Tier
   pattern-name: CommBiz App Tier
-  pattern-version: 1.0.1
+  pattern-version: 1.0.0
 
 dependencies: null
 lifecycle:
