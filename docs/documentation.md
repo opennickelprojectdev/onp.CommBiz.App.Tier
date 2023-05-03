@@ -11,12 +11,12 @@
 | pattern-categories      | application                                     |
 
 ## What is this pattern?
-This pattern is a basic template, modify it as you see fit
+This pattern is a basic template, modify it as you see fit XXXXX
 
 ![](./diagrams/res/overview.png)
 
 ## What are the use cases?
-This pattern is a basic template, modify it as you see fit
+This pattern is a basic template, modify it as you see fit XXXXX
 
 ## Variables
 
