@@ -24,3 +24,5 @@ lifecycle:
 dependencies:
   - pattern-id: cba.EC2.ALB.EFSystems.ALB
     version: 1.0.0
+  - pattern-id: cba.rdbms.rds.sessiondb
+    version: 1.0.0
