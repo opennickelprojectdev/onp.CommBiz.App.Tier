@@ -26,3 +26,5 @@ dependencies:
     version: 1.0.0
   - pattern-id: cba.rdbms.rds.sessiondb
     version: 1.0.0
+  - pattern-id: cba.ec2.quickstart
+    version: 1.0.0
