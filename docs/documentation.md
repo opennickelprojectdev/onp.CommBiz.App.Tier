@@ -2,7 +2,7 @@
 
 ## Solution Diagram
 
-![](./diagrams/res/solution.png)
+![](./diagrams/res/solution2.png)
 
 ## Solution Summary
 Current CommBiz application is large monolithic and configured for fixed/static capacity in CBA Data centers, Burwood and Norwest. It has reliability issues such as increased blast radius due to the tightly coupled architecture, where an issue in one component could take down the entire system. Simply moving them to the cloud will not magically endow them with all the dynamic features of the cloud.
